@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/hostimul/fdzisscl/public_html/
+    - /bin/cp -R /hostimul/fdzisscl/repositories/deimos/* $DEPLOYPATH
