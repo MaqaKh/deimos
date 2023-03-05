@@ -87,9 +87,9 @@ $rows = $conn->query("SELECT * FROM blog ORDER BY ID LIMIT 100");
 							</div>
 
 							<div class="blog-post-content">
-								<h3><a href="single-blog.html"><?php echo $row['title']; ?></a></h3>
+								<h3><a href="blog-detail.php?id=<?php echo $row['id']; ?>"><?php echo $row['title']; ?></a></h3>
 
-								<span>by <a href="blog-1.html"><?php echo $row['author']; ?></a></span>
+								<span>by <a href="blog-detail.php?id=<?php echo $row['id']; ?>"><?php echo $row['author']; ?></a></span>
 
 								<p> <?php echo $row['short_text']; ?></p>
 
