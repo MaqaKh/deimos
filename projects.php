@@ -56,7 +56,7 @@
         <div class="ml-projects-area ptb-80">
             <div class="container-fluid">
                 <div class="row">
-                    <div class="col-lg-3 col-sm-6 col-md-6">
+                    <div class="col-lg-4 col-sm-6 col-md-6">
                         <div class="single-ml-projects-box">
                             <img src="assets/img/projects/project1.PNG" alt="image">
                         
@@ -68,7 +68,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-3 col-sm-6 col-md-6">
+                    <div class="col-lg-4 col-sm-6 col-md-6">
                         <div class="single-ml-projects-box">
                             <img src="assets/img/projects/project2.PNG" alt="image">
                         
@@ -80,7 +80,7 @@
                         </div>
                     </div>
                     
-                    <div class="col-lg-3 col-sm-6 col-md-6">
+                    <div class="col-lg-4 col-sm-6 col-md-6">
                         <div class="single-ml-projects-box">
                             <img src="assets/img/projects/project3.PNG" alt="image">
                         
@@ -92,7 +92,7 @@
                         </div>
                     </div>
                     
-                    <div class="col-lg-3 col-sm-6 col-md-6">
+                    <div class="col-lg-4 col-sm-6 col-md-6">
                         <div class="single-ml-projects-box">
                             <img src="assets/img/projects/project4.PNG" alt="image">
                         
@@ -104,7 +104,7 @@
                         </div>
                     </div>
                     
-                    <div class="col-lg-3 col-sm-6 col-md-6">
+                    <div class="col-lg-4 col-sm-6 col-md-6">
                         <div class="single-ml-projects-box">
                             <img src="assets/img/projects/project5.PNG" alt="image">
                         
@@ -116,7 +116,7 @@
                         </div>
                     </div>
                     
-                    <div class="col-lg-3 col-sm-6 col-md-6">
+                    <div class="col-lg-4 col-sm-6 col-md-6">
                         <div class="single-ml-projects-box">
                             <img src="assets/img/projects/project6.PNG" alt="image">
                         
@@ -128,7 +128,7 @@
                         </div>
                     </div>
                     
-                    <div class="col-lg-3 col-sm-6 col-md-6">
+                    <div class="col-lg-4 col-sm-6 col-md-6">
                         <div class="single-ml-projects-box">
                             <img src="assets/img/projects/project7.png" alt="image">
                         
@@ -140,7 +140,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-3 col-sm-6 col-md-6">
+                    <div class="col-lg-4 col-sm-6 col-md-6">
                         <div class="single-ml-projects-box">
                             <img src="assets/img/projects/project9.png" alt="image">
                         
@@ -152,7 +152,7 @@
                         </div>
                     </div>
                     
-                    <div class="col-lg-3 col-sm-6 col-md-6">
+                    <div class="col-lg-4 col-sm-6 col-md-6">
                         <div class="single-ml-projects-box">
                             <img src="assets/img/projects/project8.png" alt="image">
                         
@@ -164,12 +164,34 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-3 col-sm-6 col-md-6">
+                    <div class="col-lg-4 col-sm-6 col-md-6">
                         <div class="single-ml-projects-box">
                             <img src="assets/img/projects/project10.png" alt="image">
                         
                             <div class="plus-icon">
                                 <a href="https://siservis.com/">
+                                    <span></span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 col-md-6">
+                        <div class="single-ml-projects-box">
+                            <img src="assets/img/projects/sudvezi.PNG" alt="image">
+
+                            <div class="plus-icon">
+                                <a href="https://sudvezi.az/">
+                                    <span></span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 col-md-6">
+                        <div class="single-ml-projects-box">
+                            <img src="assets/img/projects/anamebel.PNG" alt="image">
+
+                            <div class="plus-icon">
+                                <a href="https://anamebel.com/">
                                     <span></span>
                                 </a>
                             </div>
