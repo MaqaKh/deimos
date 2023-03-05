@@ -77,7 +77,7 @@ include 'general-config.php';
                 </div>
                 
                 <div class="others-option">
-                    <a href="contact.php" class="btn btn-light"><?php echo $lang['lets-talk']; ?></a>
+                    <a href="education.php" class="btn btn-light"><?php echo $lang['lets-talk']; ?></a>
                     <!-- <a href="login.html" class="btn btn-primary">Login</a> -->
                 </div>
 
