@@ -187,7 +187,7 @@ include 'includes/footer.php';
             $.ajax({
                 type: 'POST',
                 url: 'includes/send-mail.php',
-                data: $('#myForm').serialize(),
+                data: $('#contactForm').serialize(),
                 success: function(data) {
                     alert('Email sent successfully!');
                 },
