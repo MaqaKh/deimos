@@ -78,7 +78,7 @@
 
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="box">
-                            <i data-feather="globe"></i> Azure Compute
+                            <i data-feather="globe"></i> Azure Platform
                         </div>
                     </div>
 

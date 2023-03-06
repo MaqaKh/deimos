@@ -89,7 +89,7 @@
                     <img src="assets/img/education/azure.jpg" alt="image" style="max-width:90%;">
 
                     <div class="content">
-                        <h3><a href="azure.php">Azure fundamentals</a>
+                        <h3><a href="azure.php">Cloud/Devops operations</a>
                         </h3>
                         <a href="azure.php" class="read-more-btn">Read More <i
                                     data-feather="plus-circle"></i></a>
