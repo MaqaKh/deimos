@@ -1,12 +1,3 @@
-<?php
-include 'includes/dbconnection.php';
-$conn = OpenCon();
-//echo "Connected Successfully";
-//
-$rows = $conn->query("SELECT * FROM service ORDER BY ID LIMIT 100");
-//$rows = $result->fetch_assoc();
-
-?>
 <!doctype html>
 <html lang="zxx" class="theme-light">
 
@@ -33,6 +24,7 @@ $rows = $conn->query("SELECT * FROM service ORDER BY ID LIMIT 100");
     <title>Deimos</title>
 
     <link rel="icon" type="image/png" href="images/flat-icon.png">
+
 </head>
 
 <body>
@@ -68,7 +60,7 @@ $rows = $conn->query("SELECT * FROM service ORDER BY ID LIMIT 100");
         <div class="row">
             <div class="col-lg-4 col-sm-6 col-md-6">
                 <div class="agency-services-box">
-                    <img src="assets/img/education/java.png" alt="image">
+                    <img src="assets/img/education/java.png" alt="image" style="max-width:90%;">
 
                     <div class="content">
                         <h3><a href="java.php">Core Java</a>
@@ -81,7 +73,7 @@ $rows = $conn->query("SELECT * FROM service ORDER BY ID LIMIT 100");
             <div class="col-lg-4 col-sm-6 col-md-6">
 
                 <div class="agency-services-box">
-                    <img src="assets/img/education/linux.jpg" alt="image">
+                    <img src="assets/img/education/linux.jpg" alt="image" style="max-width:90%;">
 
                     <div class="content">
                         <h3><a href="linux.php">Linux</a>
@@ -94,12 +86,12 @@ $rows = $conn->query("SELECT * FROM service ORDER BY ID LIMIT 100");
             <div class="col-lg-4 col-sm-6 col-md-6">
 
                 <div class="agency-services-box">
-                    <img src="assets/img/education/docker.jpg" alt="image">
+                    <img src="assets/img/education/azure.jpg" alt="image" style="max-width:90%;">
 
                     <div class="content">
-                        <h3><a href="docker.php">Devops(Docker and Kubernetes)</a>
+                        <h3><a href="azure.php">Azure fundamentals</a>
                         </h3>
-                        <a href="docker.php" class="read-more-btn">Read More <i
+                        <a href="azure.php" class="read-more-btn">Read More <i
                                     data-feather="plus-circle"></i></a>
                     </div>
                 </div>
@@ -108,12 +100,12 @@ $rows = $conn->query("SELECT * FROM service ORDER BY ID LIMIT 100");
             <div class="col-lg-4 col-sm-6 col-md-6">
 
                 <div class="agency-services-box">
-                    <img src="assets/img/education/spring.jpg" alt="image">
+                    <img src="assets/img/education/spring.jpg" alt="image" style="max-width:90%;">
 
                     <div class="content">
-                        <h3><a href="service-detail.php?id=1">Spring framework and Spring boot</a>
+                        <h3><a href="spring.php">Spring framework and Spring boot</a>
                         </h3>
-                        <a href="service-detail.php?id=1" class="read-more-btn">Read More <i
+                        <a href="microservice.php" class="read-more-btn">Read More <i
                                     data-feather="plus-circle"></i></a>
                     </div>
                 </div>
@@ -121,12 +113,12 @@ $rows = $conn->query("SELECT * FROM service ORDER BY ID LIMIT 100");
             <div class="col-lg-4 col-sm-6 col-md-6">
 
                 <div class="agency-services-box">
-                    <img src="assets/img/education/microservices.jpg" alt="image">
+                    <img src="assets/img/education/microservices.jpg" alt="image" style="max-width:90%;">
 
                     <div class="content">
-                        <h3><a href="service-detail.php?id=1">Microservices for beginners</a>
+                        <h3><a href="microservice.php">Microservice architecture for beginners</a>
                         </h3>
-                        <a href="service-detail.php?id=1" class="read-more-btn">Read More <i
+                        <a href="microservice.php" class="read-more-btn">Read More <i
                                     data-feather="plus-circle"></i></a>
                     </div>
                 </div>
@@ -134,12 +126,12 @@ $rows = $conn->query("SELECT * FROM service ORDER BY ID LIMIT 100");
             <div class="col-lg-4 col-sm-6 col-md-6">
 
                 <div class="agency-services-box">
-                    <img src="assets/img/education/english.jpg" alt="image">
+                    <img src="assets/img/education/english.jpg" alt="image" style="max-width:90%;">
 
                     <div class="content">
-                        <h3><a href="service-detail.php?id=1">English language for beginners</a>
+                        <h3><a href="">English language for beginners</a>
                         </h3>
-                        <a href="service-detail.php?id=1" class="read-more-btn">Read More <i
+                        <a href="" class="read-more-btn">Read More <i
                                     data-feather="plus-circle"></i></a>
                     </div>
                 </div>

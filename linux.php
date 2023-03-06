@@ -120,38 +120,32 @@
                 </div>
             </div>
 
-            <div class="col-lg-6 col-md-12 services-right-image">
-                <img src="assets/img/services-right-image/book-self.png" class="wow fadeInDown" data-wow-delay="0.6s"
-                     alt="book-self">
-                <img src="assets/img/services-right-image/box.png" class="wow fadeInUp" data-wow-delay="0.6s" alt="box">
-                <img src="assets/img/services-right-image/chair.png" class="wow fadeInLeft" data-wow-delay="0.6s"
-                     alt="chair">
-                <img src="assets/img/services-right-image/cloud.png" class="wow zoomIn" data-wow-delay="0.6s"
-                     alt="cloud">
-                <img src="assets/img/services-right-image/cup.png" class="wow bounceIn" data-wow-delay="0.6s" alt="cup">
-                <img src="assets/img/services-right-image/flower-top.png" class="wow fadeInDown" data-wow-delay="0.6s"
-                     alt="flower">
-                <img src="assets/img/services-right-image/head-phone.png" class="wow zoomIn" data-wow-delay="0.6s"
-                     alt="head-phone">
-                <img src="assets/img/services-right-image/monitor.png" class="wow fadeInUp" data-wow-delay="0.6s"
-                     alt="monitor">
-                <img src="assets/img/services-right-image/mug.png" class="wow rotateIn" data-wow-delay="0.6s" alt="mug">
-                <img src="assets/img/services-right-image/table.png" class="wow fadeInUp" data-wow-delay="0.6s"
-                     alt="table">
-                <img src="assets/img/services-right-image/tissue.png" class="wow zoomIn" data-wow-delay="0.6s"
-                     alt="tissue">
-                <img src="assets/img/services-right-image/water-bottle.png" class="wow zoomIn" data-wow-delay="0.6s"
-                     alt="water-bottle">
-                <img src="assets/img/services-right-image/wifi.png" class="wow fadeInLeft" data-wow-delay="0.6s"
-                     alt="wifi">
-                <img src="assets/img/services-right-image/cercle-shape.png" class="bg-image rotateme" alt="shape">
+            <div class="col-lg-6 col-md-12 services-content">
+                <div class="row">
+                    <p >Our course instructor Coshqun is a  Red Hat Certified System Administrator. He has huge experience with Linux based Operating Systems and
+                    has been following latest stack of Unix</p>
 
-                <img src="assets/img/services-right-image/main-pic.png" class="wow fadeInUp" data-wow-delay="0.6s"
-                     alt="main-pic">
+                    <p>In this Linux Fundamentals course he will core the basics and also some advanced topics including Networking and Securityu </p>
+
+                    <p>You will have a chance to go through the real world applications and also provide your own solution to the problem  </p>
+
+                    <p>Courses are held in Azerbaijani only </p>
+
+
+                    <div style="margin-top: 5%;">
+                        <p>To register please <a href="contact.php"> Contact us </a></p>
+                    </div>
+
+                    <div class="single-footer-widget" style="margin-top: 5%;">
+                        <h3>Instructor socials:</h3>
+                        <ul class="social-links">
+                            <li><a href="https://twitter.com/mahammdkh" class="twitter" target="_blank"><i data-feather="twitter"></i></a></li>
+                            <li><a href="https://www.linkedin.com/in/mahammadkh/" class="linkedin" target="_blank"><i data-feather="linkedin"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+
             </div>
-        </div>
-        <div style="margin-top: 5%;">
-            <p>To register please <a href="contact.php"> Contact us </a> </p>
         </div>
     </div>
 </div>

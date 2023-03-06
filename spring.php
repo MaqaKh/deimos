@@ -72,49 +72,49 @@
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="box">
-                            <i data-feather="database"></i> Variable types in Java
+                            <i data-feather="database"></i> Getting started
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="box">
-                            <i data-feather="globe"></i> Classes/Methods
+                            <i data-feather="globe"></i> Spring beans
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="box">
-                            <i data-feather="file"></i> Data Structures in Java
+                            <i data-feather="file"></i> Dependency Injection
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="box">
-                            <i data-feather="trending-up"></i> Polimorphism in Java
+                            <i data-feather="trending-up"></i> Rest API
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="box">
-                            <i data-feather="folder"></i> Java Collections
+                            <i data-feather="folder"></i> Spring Data Jpa
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="box">
-                            <i data-feather="monitor"></i> Generics
+                            <i data-feather="monitor"></i> JPA Repositories
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="box">
-                            <i data-feather="mail"></i> Inheritance
+                            <i data-feather="mail"></i> Spring boot
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="box">
-                            <i data-feather="cloud"></i> Abstraction in Java
+                            <i data-feather="cloud"></i> Sprign AOP
                         </div>
                     </div>
                 </div>
@@ -143,7 +143,6 @@
                         <ul class="social-links">
                             <li><a href="https://twitter.com/mahammdkh" class="twitter" target="_blank"><i data-feather="twitter"></i></a></li>
                             <li><a href="https://www.linkedin.com/in/mahammadkh/" class="linkedin" target="_blank"><i data-feather="linkedin"></i></a></li>
-                            <li><a href="https://medium.com/@mahammadkhalilov" class="feather" target="_blank"><i data-feather="feather"></i></a></li>
                         </ul>
                     </div>
                 </div>

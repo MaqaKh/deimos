@@ -64,92 +64,91 @@
         <div class="row h-100 justify-content-center align-items-center">
             <div class="col-lg-6 col-md-12 services-content">
                 <div class="section-title">
-                    <h2> Docker and Kubernetes by Rizvan Saatov </h2>
+                    <h2> Azure fundamentals by Rizvan Saatov </h2>
                     <div class="bar"></div>
-                    <p>Learn basics of Docker and Kubernetes by Rizvan Saatov</p>
+                    <p>Learn basics of Cloud Infrastructure by Rizvan Saatov</p>
                 </div>
 
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="box">
-                            <i data-feather="database"></i> Docker basics
+                            <i data-feather="database"></i> First look
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="box">
-                            <i data-feather="globe"></i> Images and Containers
+                            <i data-feather="globe"></i> Azure Compute
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="box">
-                            <i data-feather="file"></i> Docker Volume
+                            <i data-feather="file"></i> Azure Networking
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="box">
-                            <i data-feather="trending-up"></i> Networking
+                            <i data-feather="trending-up"></i> Messaging
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="box">
-                            <i data-feather="folder"></i> Docker Compose
+                            <i data-feather="folder"></i> Azure AD
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="box">
-                            <i data-feather="monitor"></i> Kubernetes basics
+                            <i data-feather="monitor"></i> Monitoring
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="box">
-                            <i data-feather="mail"></i> Kubernetes in action
+                            <i data-feather="mail"></i> Security
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="box">
-                            <i data-feather="cloud"></i> Kubernetes Networking
+                            <i data-feather="cloud"></i> Intro to docker
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div class="col-lg-6 col-md-12 services-right-image">
-                <img src="assets/img/services-right-image/book-self.png" class="wow fadeInDown" data-wow-delay="0.6s"
-                     alt="book-self">
-                <img src="assets/img/services-right-image/box.png" class="wow fadeInUp" data-wow-delay="0.6s" alt="box">
-                <img src="assets/img/services-right-image/chair.png" class="wow fadeInLeft" data-wow-delay="0.6s"
-                     alt="chair">
-                <img src="assets/img/services-right-image/cloud.png" class="wow zoomIn" data-wow-delay="0.6s"
-                     alt="cloud">
-                <img src="assets/img/services-right-image/cup.png" class="wow bounceIn" data-wow-delay="0.6s" alt="cup">
-                <img src="assets/img/services-right-image/flower-top.png" class="wow fadeInDown" data-wow-delay="0.6s"
-                     alt="flower">
-                <img src="assets/img/services-right-image/head-phone.png" class="wow zoomIn" data-wow-delay="0.6s"
-                     alt="head-phone">
-                <img src="assets/img/services-right-image/monitor.png" class="wow fadeInUp" data-wow-delay="0.6s"
-                     alt="monitor">
-                <img src="assets/img/services-right-image/mug.png" class="wow rotateIn" data-wow-delay="0.6s" alt="mug">
-                <img src="assets/img/services-right-image/table.png" class="wow fadeInUp" data-wow-delay="0.6s"
-                     alt="table">
-                <img src="assets/img/services-right-image/tissue.png" class="wow zoomIn" data-wow-delay="0.6s"
-                     alt="tissue">
-                <img src="assets/img/services-right-image/water-bottle.png" class="wow zoomIn" data-wow-delay="0.6s"
-                     alt="water-bottle">
-                <img src="assets/img/services-right-image/wifi.png" class="wow fadeInLeft" data-wow-delay="0.6s"
-                     alt="wifi">
-                <img src="assets/img/services-right-image/cercle-shape.png" class="bg-image rotateme" alt="shape">
+            <div class="col-lg-6 col-md-12 services-content">
+                <div class="row">
+                    <p >Our course instructor has more than 3 years of experience working with Cloud Infrastructure. He has
+                        worked for Rulex and currently employed at Engineering Ingegneria Informatica Spa.
+                        During these years he has worked with different clients providing migration from on premise solutions to cloud </>
 
-                <img src="assets/img/services-right-image/main-pic.png" class="wow fadeInUp" data-wow-delay="0.6s"
-                     alt="main-pic">
-            </div>
-        </div>
+                    <p>In this course you will learn fundamentals of Cloud Architecture. You will go through Azure active directory and also touch more advanced topics
+                    such as Azure Networking/Messaging/Functions  </p>
+
+                    <p> You also will get most of the information needed for AZ-104 exam preparation </p>
+
+                    <p>Courses are held in English, Azerbaijani in an online format </p>
+
+
+                    <div style="margin-top: 5%;">
+                        <p>To register please <a href="contact.php"> Contact us </a></p>
+                    </div>
+
+                    <div class="single-footer-widget" style="margin-top: 5%;">
+                        <h3>Instructor socials:</h3>
+                        <ul class="social-links">
+                            <li><a href="https://twitter.com/@SaatovRizvan" class="twitter" target="_blank"><i data-feather="twitter"></i></a></li>
+                            <li><a href="https://www.linkedin.com/in/rizvan-saatov/" class="linkedin" target="_blank"><i data-feather="linkedin"></i></a></li>
+                            <li><a href="https://medium.com/@rizvansaatov" class="feather" target="_blank"><i data-feather="feather"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>        </div>
         <div style="margin-top: 5%;">
             <p>To register please <a href="contact.php"> Contact us </a></p>
         </div>
