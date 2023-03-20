@@ -73,8 +73,8 @@
                             <span class="sub-title">About Us</span>
                             <h2>We create extraordinary digital solutions that get people talking</h2>
                             <div class="bar"></div>
-                            <p>We are a small start up located in Baku,Azerbaijan. We are focused on delivering web based applications using new technology</p>
-                            <p>As a team we are also keen on learning innovative technology like ML and AI. Our current product is using Face Recognition to identify the user. R&D is the key for our success</p>
+                            <p><?php echo $lang["about-text-1"]; ?></p>
+                            <p><?php echo $lang["about-text-2"]; ?></p>
 
                             <a href="contact.php" class="btn btn-secondary">Discover More</a>
                         </div>

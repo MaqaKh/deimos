@@ -34,9 +34,9 @@ $lang = array(
     "graphic-design-p" => "Graphic design is a craft where professionals create visual content to communicate messages. ",
     "it-support-p" => "We architect, implement, manage and secure IT solutions that help you achieve your most ambitious IT goals.",
     "seo-content-p" => "Improve SEO ranking of your website and engage your user base with expelling content",
-    "service-desc"=> "We offer different services including web developing, software engineering and digital marketing..."
-
-
+    "service-desc"=> "We offer different services including web developing, software engineering and digital marketing...",
+    "about-text-1"=>"We are a small start up located in Baku,Azerbaijan. We are focused on delivering web based applications using new technology",
+    "about-text-2"=>"As a team we are also keen on learning innovative technology like ML and AI. Our current product is using Face Recognition to identify the user. R&D is the key for our success",
 
 
 

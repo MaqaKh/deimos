@@ -71,7 +71,7 @@ $rows = $conn->query("SELECT * FROM service ORDER BY ID LIMIT 100");
                     <img src="assets/img/education/java.png" alt="image">
 
                     <div class="content">
-                        <h3><a href="java.php">Core Java</a>
+                        <h3><a href="java.php">Java SE FUndamentals and more</a>
                         </h3>
                         <a href="java.php" class="read-more-btn">Read More <i
                                     data-feather="plus-circle"></i></a>
@@ -84,7 +84,7 @@ $rows = $conn->query("SELECT * FROM service ORDER BY ID LIMIT 100");
                     <img src="assets/img/education/linux.jpg" alt="image">
 
                     <div class="content">
-                        <h3><a href="linux.php">Linux</a>
+                        <h3><a href="linux.php">Linux System Administration</a>
                         </h3>
                         <a href="linux.php" class="read-more-btn">Read More <i
                                     data-feather="plus-circle"></i></a>
@@ -94,10 +94,10 @@ $rows = $conn->query("SELECT * FROM service ORDER BY ID LIMIT 100");
             <div class="col-lg-4 col-sm-6 col-md-6">
 
                 <div class="agency-services-box">
-                    <img src="assets/img/education/docker.jpg" alt="image">
+                    <img src="assets/img/education/azure.png" alt="image">
 
                     <div class="content">
-                        <h3><a href="docker.php">Devops(Docker and Kubernetes)</a>
+                        <h3><a href="docker.php">Microsoft Azure Infrastructure and Deployment</a>
                         </h3>
                         <a href="docker.php" class="read-more-btn">Read More <i
                                     data-feather="plus-circle"></i></a>

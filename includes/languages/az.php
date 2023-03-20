@@ -34,9 +34,10 @@ $lang = array(
     "it-support-p" => "Biz ən iddialı İT məqsədlərinizə çatmağınıza kömək edən İT həlləri qurur, həyata keçirir, idarə edir və təmin edirik.",
     "seo-content-p" => "Veb saytınızın SEO sıralamasını yaxşılaşdırın və istifadəçi bazanızı məzmundan qovuşdurmaqla cəlb edin",
     "lets-make-great-things" => "Gəlin birlikdə heyrətamiz bir şey yaradaq",
-    "service-desc"=> "Veb saytların hazırlanması, proqram təminatı və rəqəmsal marketinq daxil olmaqla müxtəlif xidmətlər təklif edirik..."
+    "service-desc"=> "Veb saytların hazırlanması, proqram təminatı və rəqəmsal marketinq daxil olmaqla müxtəlif xidmətlər təklif edirik...",
+    "about-text-1"=>"Biz Azərbaycanda, Bakıda yerləşən kiçik bir startapıq. Biz yeni texnologiyadan istifadə edərək veb əsaslı proqramların çatdırılmasına diqqət yetirmişik",
+    "about-text-2"=>"Komanda olaraq biz həm də ML və AI kimi innovativ texnologiyanı öyrənməyə can atırıq. Hazırkı məhsulumuz istifadəçini müəyyən etmək üçün Üz Tanıma funksiyasından istifadə edir. Ar-Ge uğurumuzun açarıdır",
 
-    
 
 
 
