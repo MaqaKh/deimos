@@ -82,7 +82,7 @@ $rows = $conn->query("SELECT * FROM blog ORDER BY ID LIMIT 100");
 								</a>
 
 								<div class="date">
-									<i data-feather="calendar"></i> March<?php echo $row['date']; ?>
+									<i data-feather="calendar"></i> <?php echo date('F j, H:i',strtotime($row['date'])); ?>
 								</div>
 							</div>
 

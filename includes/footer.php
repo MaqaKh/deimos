@@ -51,7 +51,7 @@
 							<ul class="social-links">
 								<li><a href="#" class="facebook" target="_blank"><i data-feather="facebook"></i></a></li>
 								<!-- <li><a href="#" class="twitter" target="_blank"><i data-feather="twitter"></i></a></li> -->
-								<li><a href="#" class="instagram" target="_blank"><i data-feather="instagram"></i></a></li>
+								<li><a href="https://www.instagram.com/deimos.az" class="instagram" target="_blank"><i data-feather="instagram"></i></a></li>
 								<!-- <li><a href="#" class="linkedin" target="_blank"><i data-feather="linkedin"></i></a></li> -->
 							</ul>
 						</div>

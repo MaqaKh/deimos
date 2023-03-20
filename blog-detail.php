@@ -19,7 +19,6 @@ $row = $result->fetch_array(MYSQLI_ASSOC);
 <!doctype html>
 <html lang="zxx" class="theme-light">
 
-<!-- Mirrored from templates.envytheme.com/startp/default/single-blog.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 19 Mar 2022 19:43:16 GMT -->
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -41,7 +40,7 @@ $row = $result->fetch_array(MYSQLI_ASSOC);
 
     <title>StartP - IT Startup & Digital Services HTML Template</title>
 
-    <link rel="icon" type="image/png" href="assets/img/favicon.png">
+    <link rel="icon" type="image/png" href="images/flat-icon.png">
 </head>
 
 <body>

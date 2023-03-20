@@ -64,57 +64,57 @@
         <div class="row h-100 justify-content-center align-items-center">
             <div class="col-lg-6 col-md-12 services-content">
                 <div class="section-title">
-                    <h2> Java core by Mahammad Khalilov </h2>
+                    <h2> Azure fundamentals by Rizvan Saatov </h2>
                     <div class="bar"></div>
-                    <p>Learn applications of Java language by our mentor</p>
+                    <p>Learn basics of Cloud Infrastructure by Rizvan Saatov</p>
                 </div>
 
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="box">
-                            <i data-feather="database"></i> Variable types in Java
+                            <i data-feather="database"></i> First look
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="box">
-                            <i data-feather="globe"></i> Classes/Methods
+                            <i data-feather="globe"></i> Azure Platform
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="box">
-                            <i data-feather="file"></i> Data Structures in Java
+                            <i data-feather="file"></i> Azure Networking
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="box">
-                            <i data-feather="trending-up"></i> Polimorphism in Java
+                            <i data-feather="trending-up"></i> Messaging
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="box">
-                            <i data-feather="folder"></i> Java Collections
+                            <i data-feather="folder"></i> Azure AD
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="box">
-                            <i data-feather="monitor"></i> Generics
+                            <i data-feather="monitor"></i> Monitoring
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="box">
-                            <i data-feather="mail"></i> Inheritance
+                            <i data-feather="mail"></i> Security
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="box">
-                            <i data-feather="cloud"></i> Abstraction in Java
+                            <i data-feather="cloud"></i> Intro to docker
                         </div>
                     </div>
                 </div>
@@ -122,16 +122,16 @@
 
             <div class="col-lg-6 col-md-12 services-content">
                 <div class="row">
-                    <p >Our course instructor has more than 5 years of experience working with Java Spring Framework. He has
-                        worked for R.I.S.K , EPAM and currently employed at Morgtan Stanley.
-                        He has various experience building Java based applications working for different clients. </>
+                    <p >Our course instructor has more than 3 years of experience working with Cloud Infrastructure. He has
+                        worked for Rulex and currently employed at Engineering Ingegneria Informatica Spa.
+                        During these years he has worked with different clients providing migration from on premise solutions to cloud </>
 
-                    <p>In this core java course you will learn the fundamental building blocks of Java language and also move forward to more
-                        advanced topics OOP/OOD topics </p>
+                    <p>In this course you will learn fundamentals of Cloud Architecture. You will go through Azure active directory and also touch more advanced topics
+                    such as Azure Networking/Messaging/Functions  </p>
 
-                    <p>You will have a chance to go through the real world applications and also provide your own solution to the problem  </p>
+                    <p> You also will get most of the information needed for AZ-104 exam preparation </p>
 
-                    <p>Courses are held in English, Azerbaijani and Russian </p>
+                    <p>Courses are held in English, Azerbaijani in an online format </p>
 
 
                     <div style="margin-top: 5%;">
@@ -141,16 +141,17 @@
                     <div class="single-footer-widget" style="margin-top: 5%;">
                         <h3>Instructor socials:</h3>
                         <ul class="social-links">
-                            <li><a href="https://twitter.com/mahammdkh" class="twitter" target="_blank"><i data-feather="twitter"></i></a></li>
-                            <li><a href="https://www.linkedin.com/in/mahammadkh/" class="linkedin" target="_blank"><i data-feather="linkedin"></i></a></li>
-                            <li><a href="https://medium.com/@mahammadkhalilov" class="feather" target="_blank"><i data-feather="feather"></i></a></li>
+                            <li><a href="https://twitter.com/@SaatovRizvan" class="twitter" target="_blank"><i data-feather="twitter"></i></a></li>
+                            <li><a href="https://www.linkedin.com/in/rizvan-saatov/" class="linkedin" target="_blank"><i data-feather="linkedin"></i></a></li>
+                            <li><a href="https://medium.com/@rizvansaatov" class="feather" target="_blank"><i data-feather="feather"></i></a></li>
                         </ul>
                     </div>
                 </div>
 
-            </div>
+            </div>        </div>
+        <div style="margin-top: 5%;">
+            <p>To register please <a href="contact.php"> Contact us </a></p>
         </div>
-
     </div>
 </div>
 <div class="ptb-100">
@@ -183,8 +184,9 @@
         </div>
     </div>
 </div>
+<!-- end lets make together -->
 
-
+<!-- Start Footer Area -->
 <?php
 include 'includes/footer.php';
 ?>
