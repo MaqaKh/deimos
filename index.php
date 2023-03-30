@@ -15,6 +15,7 @@ $rows = $conn->query("SELECT * FROM blog ORDER BY ID LIMIT 3");
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Looking for expert IT solutions? Our consulting company offers top-notch services to streamline your business operations. From software development to cybersecurity, we've got you covered. Contact us today for a consultation!">
     <meta name="google-site-verification" content="07QrfSMNj3OvAW6r36hmKRZQyMIEkl-oS8Xnl4_JmrM"/>
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -29,7 +30,7 @@ $rows = $conn->query("SELECT * FROM blog ORDER BY ID LIMIT 3");
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
     <link rel="stylesheet" href="assets/css/dark-color/dark-style.css">
-    <title>Deimos</title>
+    <title>Deimos - Software Company</title>
     <link rel="icon" type="image/png" href="images/flat-icon.png">
 
     <!-- Google tag (gtag.js) -->
@@ -67,7 +68,7 @@ $rows = $conn->query("SELECT * FROM blog ORDER BY ID LIMIT 3");
                 <div class="container">
                     <div class="portfolio-banner-content">
                         <span class="sub-title">We are Digital</span>
-                        <h1>Web Development</h1>
+                        <h1>It Consulting</h1>
                         <p>We are focused on delivering web applications</p>
                         <a href="contact.php" class="btn btn-secondary">Get Started</a>
                     </div>
