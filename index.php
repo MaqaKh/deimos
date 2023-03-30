@@ -30,7 +30,7 @@ $rows = $conn->query("SELECT * FROM blog ORDER BY ID LIMIT 3");
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
     <link rel="stylesheet" href="assets/css/dark-color/dark-style.css">
-    <title>Deimos - Software Company</title>
+    <title>Revolutionize Your Business with Deimos: Innovative Software Solutions</title>
     <link rel="icon" type="image/png" href="images/flat-icon.png">
 
     <!-- Google tag (gtag.js) -->
@@ -68,8 +68,8 @@ $rows = $conn->query("SELECT * FROM blog ORDER BY ID LIMIT 3");
                 <div class="container">
                     <div class="portfolio-banner-content">
                         <span class="sub-title">We are Digital</span>
-                        <h1>It Consulting</h1>
-                        <p>We are focused on delivering web applications</p>
+                        <h1>Software Solutions</h1>
+                        <p>We are focused on delivering Software Solutions</p>
                         <a href="contact.php" class="btn btn-secondary">Get Started</a>
                     </div>
                 </div>
@@ -97,31 +97,19 @@ $rows = $conn->query("SELECT * FROM blog ORDER BY ID LIMIT 3");
             <div class="d-table-cell">
                 <div class="container">
                     <div class="portfolio-banner-content">
-
                         <span class="sub-title">We are Agency</span>
-
                         <h1>Digital Marketing</h1>
-
                         <p>Do you want to carry your brand into the future? Connect and let's go!</p>
-
                         <a href="contact.php" class="btn btn-secondary">Get Started</a>
-
                     </div>
-
                 </div>
-
             </div>
-
         </div>
-
     </div>
-
 </div>
 
 <div class="iot-services-area ptb-80">
-
     <div class="container">
-
         <div class="section-title">
 
             <h2><?php echo $lang["service-head"]; ?></h2>
@@ -131,148 +119,67 @@ $rows = $conn->query("SELECT * FROM blog ORDER BY ID LIMIT 3");
             <p><?php echo $lang["service-desc"]; ?></p>
 
         </div>
-
-
         <div class="row">
-
             <div class="col-lg-4 col-md-6 col-sm-6">
-
                 <div class="single-iot-services">
-
                     <div class="icon">
-
                         <i class="flaticon-idea"></i>
-
                     </div>
-
-
                     <h3><?php echo $lang['web-development']; ?><br></h3>
-
                     <p>We build Single Page Web applications and also large websites including different components</p>
-
-
                     <a href="service-detail.php?id=1"><i data-feather="arrow-right"></i></a>
-
                 </div>
-
             </div>
-
-
             <div class="col-lg-4 col-md-6 col-sm-6">
-
                 <div class="single-iot-services">
-
                     <div class="icon">
-
                         <i class="flaticon-dashboard"></i>
-
                     </div>
-
-
                     <h3><?php echo $lang['digital-marketing']; ?><br></h3>
-
                     <p><?php echo $lang['digital-marketing-p']; ?></p>
-
-
                     <a href="service-detail.php?id=2"><i data-feather="arrow-right"></i></a>
-
                 </div>
-
             </div>
-
-
             <div class="col-lg-4 col-md-6 col-sm-6">
-
                 <div class="single-iot-services">
-
                     <div class="icon">
-
                         <i class="flaticon-software"></i>
-
                     </div>
-
-
                     <h3><?php echo $lang['graphic-design']; ?> <br></h3>
-
                     <p><?php echo $lang['graphic-design-p']; ?></p>
-
-
                     <a href="service-detail.php?id=3"><i data-feather="arrow-right"></i></a>
-
                 </div>
-
             </div>
-
-
             <div class="col-lg-4 col-md-6 col-sm-6">
-
                 <div class="single-iot-services">
-
                     <div class="icon">
-
                         <i class="flaticon-hard-disk"></i>
-
                     </div>
-
-
                     <h3><?php echo $lang['it-support']; ?> <br></h3>
-
                     <p><?php echo $lang['it-support-p']; ?> </p>
-
-
                     <a href="service-detail.php?id=4"><i data-feather="arrow-right"></i></a>
-
                 </div>
-
             </div>
-
-
             <div class="col-lg-4 col-md-6 col-sm-6">
-
                 <div class="single-iot-services">
-
                     <div class="icon">
-
                         <i class="flaticon-laptop"></i>
-
                     </div>
-
-
                     <h3><?php echo $lang['seo-content']; ?> <br></h3>
-
                     <p><?php echo $lang['seo-content-p']; ?></p>
-
-
                     <a href="service-detail.php?id=5"><i data-feather="arrow-right"></i></a>
-
                 </div>
-
             </div>
-
-
             <div class="col-lg-4 col-md-6 col-sm-6">
-
                 <div class="single-iot-services">
-
                     <div class="icon">
-
                         <i class="flaticon-smartphone"></i>
-
                     </div>
-
-
                     <h3><?php echo $lang['software-eng']; ?><br></h3>
-
-                    <p>Find engineers that could help architect and build your next project. We outsource best engineers
-                        in our country</p>
-
-
+                    <p>Find engineers that could help architect and build your next project. We outsource best engineers in our country</p>
                     <a href="service-detail.php?id=6"><i data-feather="arrow-right"></i></a>
-
                 </div>
-
             </div>
-
         </div>
 
     </div>
