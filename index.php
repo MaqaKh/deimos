@@ -15,7 +15,7 @@ $rows = $conn->query("SELECT * FROM blog ORDER BY ID LIMIT 3");
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Looking for expert Software Solutions? Our consulting company offers top-notch services to streamline your business operations. From software development to cybersecurity, we've got you covered. Contact us today for a consultation!">
+    <meta name="description" content="Looking for expert Software Solutions? Our consulting company offers top-notch services to streamline your business operations. Contact us today for a consultation!">
     <meta name="google-site-verification" content="07QrfSMNj3OvAW6r36hmKRZQyMIEkl-oS8Xnl4_JmrM"/>
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
