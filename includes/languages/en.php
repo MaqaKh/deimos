@@ -30,13 +30,19 @@ $lang = array(
     "address" => "Baku Office Center, Ahmad Rajabli 9, Baku/Azerbaijan",
     "service-head" => "Our Featured Services that We Provide",
     "lets-talk" => "Education",
-    "digital-marketing-p" => "Ensures that your website is placed in front of the right people who are willing to purchase your products or services.",
+    "digital-marketing-p" => "Using Google Ads marketing ensures that your website is effectively targeted towards potential customers who are actively searching for products or services like yours.",
     "graphic-design-p" => "Graphic design is a craft where professionals create visual content to communicate messages. ",
     "it-support-p" => "We architect, implement, manage and secure IT solutions that help you achieve your most ambitious IT goals.",
     "seo-content-p" => "Improve SEO ranking of your website and engage your user base with expelling content",
     "service-desc"=> "We offer different services including web developing, software engineering and digital marketing...",
     "about-text-1"=>"We are a small start up located in Baku,Azerbaijan. We are focused on delivering web based applications using new technology",
     "about-text-2"=>"As a team we are also keen on learning innovative technology like ML and AI. Our current product is using Face Recognition to identify the user. R&D is the key for our success",
+    "slider-span" => "We are Creative",
+    "slider-h1"=> "Software Company",
+    "slider-p" => "Our expertise lies in developing innovative mobile and web solutions that drive growth and profitability",
+    "slider-span-2" => "We are a Data-Driven",
+    "slider-h1-2"=> "Digital Marketing Agency",
+    "slider-p-2" => "Transform your digital presence with our website and mobile app solutions, backed by our expertise in digital marketing using Google Ads and SEO",
 
 
 

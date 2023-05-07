@@ -15,7 +15,8 @@ $rows = $conn->query("SELECT * FROM blog ORDER BY ID LIMIT 3");
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Looking for expert Software Solutions? Our consulting company offers top-notch services to streamline your business operations. Contact us today for a consultation!">
+    <meta name="description"
+          content="Looking for expert Software Solutions? Our consulting company offers top-notch services to streamline your business operations. Contact us today for a consultation!">
     <title>Revolutionize Your Business with Deimos: Innovative Software Solutions</title>
     <meta name="google-site-verification" content="07QrfSMNj3OvAW6r36hmKRZQyMIEkl-oS8Xnl4_JmrM"/>
 
@@ -62,29 +63,29 @@ $rows = $conn->query("SELECT * FROM blog ORDER BY ID LIMIT 3");
 
 <div class="agency-portfolio-home-slides owl-carousel owl-theme">
 
-    <div class="agency-portfolio-main-banner portfolio-banner-bg2">
-        <div class="d-table">
-            <div class="d-table-cell">
-                <div class="container">
-                    <div class="portfolio-banner-content">
-                        <span class="sub-title">We are Digital</span>
-                        <h1>Software Solutions</h1>
-                        <p>We are focused on delivering Software Solutions</p>
-                        <a href="contact.php" class="btn btn-secondary">Get Started</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+<!--    <div class="agency-portfolio-main-banner portfolio-banner-bg2">-->
+<!--        <div class="d-table">-->
+<!--            <div class="d-table-cell">-->
+<!--                <div class="container">-->
+<!--                    <div class="portfolio-banner-content">-->
+<!--                        <span class="sub-title">We are Digital</span>-->
+<!--                        <h1>Marketing Agency</h1>-->
+<!--                        <p>We are focused on delivering Software Solutions</p>-->
+<!--                        <a href="contact.php" class="btn btn-secondary">Get Started</a>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
 
     <div class="agency-portfolio-main-banner portfolio-banner-bg1">
         <div class="d-table">
             <div class="d-table-cell">
                 <div class="container">
                     <div class="portfolio-banner-content">
-                        <span class="sub-title">We are Creative</span>
-                        <h1>Software Company</h1>
-                        <p>We are deliving different types of software to wide wiriety of clients</p>
+                        <span class="sub-title"><?php echo $lang["slider-span"]; ?></span>
+                        <h1><?php echo $lang["slider-h1"]; ?></h1>
+                        <p><?php echo $lang["slider-p"]; ?></p>
                         <a href="contact.php" class="btn btn-secondary">Get Started</a>
                     </div>
                 </div>
@@ -97,9 +98,9 @@ $rows = $conn->query("SELECT * FROM blog ORDER BY ID LIMIT 3");
             <div class="d-table-cell">
                 <div class="container">
                     <div class="portfolio-banner-content">
-                        <span class="sub-title">We are Agency</span>
-                        <h1>Digital Marketing</h1>
-                        <p>Do you want to carry your brand into the future? Connect and let's go!</p>
+                        <span class="sub-title"><?php echo $lang["slider-span-2"]; ?></span>
+                        <h1><?php echo $lang["slider-h1-2"]; ?></h1>
+                        <p><?php echo $lang["slider-p-2"]; ?></p>
                         <a href="contact.php" class="btn btn-secondary">Get Started</a>
                     </div>
                 </div>
@@ -126,7 +127,7 @@ $rows = $conn->query("SELECT * FROM blog ORDER BY ID LIMIT 3");
                         <i class="flaticon-idea"></i>
                     </div>
                     <h3><?php echo $lang['web-development']; ?><br></h3>
-                    <p>We build Single Page Web applications and also large websites including different components</p>
+                    <p>We specialize in developing both single-page web applications and complex websites that incorporate various components.</p>
                     <a href="service-detail.php?id=1"><i data-feather="arrow-right"></i></a>
                 </div>
             </div>
@@ -176,7 +177,8 @@ $rows = $conn->query("SELECT * FROM blog ORDER BY ID LIMIT 3");
                         <i class="flaticon-smartphone"></i>
                     </div>
                     <h3><?php echo $lang['software-eng']; ?><br></h3>
-                    <p>Find engineers that could help architect and build your next project. We outsource best engineers in our country</p>
+                    <p>Find engineers that could help architect and build your next project. We outsource best engineers
+                        in our country</p>
                     <a href="service-detail.php?id=6"><i data-feather="arrow-right"></i></a>
                 </div>
             </div>
@@ -276,11 +278,11 @@ $rows = $conn->query("SELECT * FROM blog ORDER BY ID LIMIT 3");
 
 </div>
 
-				</div>
+</div>
 
-			</div>
+</div>
 
-		</div>
+</div>
 
 <div class="ptb-100">
 
