@@ -8,11 +8,13 @@ $lang = array(
     "contact" => "Əlaqə",
     "title" => "Deimos - Saytların hazırlanması, saytların yığılması, sayt sifarişi, sayt yaradılması.",
     "web-development" => "Veb saytların hazırlanması",
+    "web-development-p" => "Biz həm tək səhifəli veb proqramların, həm də müxtəlif komponentləri özündə birləşdirən mürəkkəb vebsaytların hazırlanmasında ixtisaslaşırıq",
     "digital-marketing" => "Rəqəmsal marketinq",
     "graphic-design" => "Dizayn xidmətləri",
     "it-support" => "Texniki dəstək",
     "seo-content" => "SEO & kontent menecment",
     "software-eng" => "Mobil tətbiqlərin yaradılması",
+    "software-eng-p" => "Xəyal etdiyiniz mobil proqramı yaradın",
     "lets-make" => "Birlikdə əfsanəvi işlər çıxardaq",
     "get-started" => "Başla",
     "quick-link" => "Qısa keçidlər",
@@ -43,7 +45,14 @@ $lang = array(
     "slider-span-2" => "Biz  Data Yönümlü",
     "slider-h1-2"=> "Digital Marketing Agetliyik",
     "slider-p-2" => "Google Ads və SEO-dan istifadə edərək rəqəmsal marketinq sahəsində təcrübəmizlə dəstəklənən vebsaytımız və mobil tətbiq həllərimizlə rəqəmsal varlığınızı dəyişdirin",
-
+    "core-approach" => "Bizim Əsas Yanaşmamız",
+    "core-approach-p" => "Rəqəmsal layihənizin həyata keçirilməsinin bütün mərhələlərində sizə kömək edirik: strategiya, dizayn, veb inkişafı, kommunikasiya və seo",
+    "digital-tech" => "Rəgəmsal Texnologiyalar",
+    "digital-tech-p" => "Layihənizi daha görünən və güclü etməklə, özünüzü fərqləndirməyə kömək etməyi hədəfləyirik",
+    "business-protection" => "Biznesin qorunması",
+    "business-protection-p" => "Biz OWASP-in ən son təhlükəsizlik qaydalarına əməl edirik. Biznes təhlükəsizliyinin təmin edilməsi bizim əsas prioritetimizdir",
+    "data-analysis" => "Məlumatların təhlili",
+    "data-analysis-p"  => "Biz biznes ehtiyaclarına əsasən müxtəlif hesabatlar təqdim edirik. Biz müəssisə proqram təminatı üçün müasir monitorinq alətlərindən istifadə edirik"
 
 
 

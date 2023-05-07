@@ -127,7 +127,7 @@ $rows = $conn->query("SELECT * FROM blog ORDER BY ID LIMIT 3");
                         <i class="flaticon-idea"></i>
                     </div>
                     <h3><?php echo $lang['web-development']; ?><br></h3>
-                    <p>We specialize in developing both single-page web applications and complex websites that incorporate various components.</p>
+                    <p><?php echo $lang['web-development-p']; ?></p>
                     <a href="service-detail.php?id=1"><i data-feather="arrow-right"></i></a>
                 </div>
             </div>
@@ -177,8 +177,7 @@ $rows = $conn->query("SELECT * FROM blog ORDER BY ID LIMIT 3");
                         <i class="flaticon-smartphone"></i>
                     </div>
                     <h3><?php echo $lang['software-eng']; ?><br></h3>
-                    <p>Find engineers that could help architect and build your next project. We outsource best engineers
-                        in our country</p>
+                    <p><?php echo $lang['software-eng-p']; ?></p>
                     <a href="service-detail.php?id=6"><i data-feather="arrow-right"></i></a>
                 </div>
             </div>
@@ -194,33 +193,22 @@ $rows = $conn->query("SELECT * FROM blog ORDER BY ID LIMIT 3");
     <div class="container">
 
         <div class="section-title">
-
-            <h2>Our Core Approach</h2>
-
+            <h2><?php echo $lang['core-approach']; ?> </h2>
             <div class="bar"></div>
-
-            <p>We help you in all the stages of the realization of your digital project: strategy, design, web
-                development, communication and seo.</p>
-
+            <p><?php echo $lang['core-approach-p']; ?> </p>
         </div>
 
 
         <div class="row">
-
             <div class="col-lg-4 col-md-6 col-sm-6">
-
                 <div class="single-iot-box">
-
                     <div class="icon">
-
                         <img src="assets/img/icon1.png" alt="image">
-
                     </div>
 
-                    <h3>Digital Technology</h3>
+                    <h3><?php echo $lang['digital-tehcnology']; ?> </h3>
 
-                    <p> We aim to help you to differentiate yourself by making your project more visible and
-                        powerful.</p>
+                    <p> <?php echo $lang['digital-technology-p']; ?> </p>
 
                     <a href="#"><i data-feather="arrow-right"></i></a>
 
@@ -239,10 +227,9 @@ $rows = $conn->query("SELECT * FROM blog ORDER BY ID LIMIT 3");
 
                     </div>
 
-                    <h3>Business Protection</h3>
+                    <h3><?php echo $lang['business-protection']; ?> </h3>
 
-                    <p>We follow the latest security guidelines of OWASP. Ensuring business security is our top
-                        priority</p>
+                    <p><?php echo $lang['business-protection-p']; ?> </p>
 
                     <a href="#"><i data-feather="arrow-right"></i></a>
 
@@ -261,10 +248,9 @@ $rows = $conn->query("SELECT * FROM blog ORDER BY ID LIMIT 3");
 
                     </div>
 
-                    <h3>Data Analysis</h3>
+                    <h3><?php echo $lang['data-analysis']; ?> </h3>
 
-                    <p>We provide different reporting based on business needs. We are using up-to-date monitoring tools
-                        for enterprise software</p>
+                    <p><?php echo $lang['data-analysis-p']; ?> </p>
 
                     <a href="#"><i data-feather="arrow-right"></i></a>
 

@@ -9,11 +9,13 @@ $lang = array(
     "contact" => "Contact",
     "title" => "Deimos - website agency",
     "web-development" => "Web Development",
+    "web-development-p" => "We specialize in developing both single-page web applications and complex websites that incorporate various components.",
     "digital-marketing" => "Digital Marketing",
     "graphic-design" => "Graphic Design",
     "it-support" => "IT Support",
     "seo-content" => "SEO & Content",
-    "software-eng" => "",
+    "software-eng" => "Mobil application development",
+    "software-eng-p" => "Build your dream mobile app",
     "lets-make" => "Lets Make",
     "get-started" => "Get Started",
     "quick-link" => "Quick Link",
@@ -43,8 +45,18 @@ $lang = array(
     "slider-span-2" => "We are a Data-Driven",
     "slider-h1-2"=> "Digital Marketing Agency",
     "slider-p-2" => "Transform your digital presence with our website and mobile app solutions, backed by our expertise in digital marketing using Google Ads and SEO",
-
-
+    "core-approach" => "Our Core Approach",
+    "core-approach-p" => "We help you in all the stages of the realization of your digital project: strategy, design, web
+                development, communication, and SEO",
+    "digital-tech" => "Digital Technology",
+    "digital-tech-p" => " We aim to help you to differentiate yourself by making your project more visible and
+                        powerful.",
+    "business-protection" => "Business Protection",
+    "business-protection-p" => "We follow the latest security guidelines of OWASP. Ensuring business security is our top
+                        priority",
+    "data-analysis" => "Data Analysis",
+    "data-analysis-p"  => "We provide different reporting based on business needs. We are using up-to-date monitoring tools
+                        for enterprise software"
 
 );
 ?>
