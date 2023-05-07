@@ -206,9 +206,9 @@ $rows = $conn->query("SELECT * FROM blog ORDER BY ID LIMIT 3");
                         <img src="assets/img/icon1.png" alt="image">
                     </div>
 
-                    <h3><?php echo $lang['digital-tehcnology']; ?> </h3>
+                    <h3><?php echo $lang['digital-tech']; ?> </h3>
 
-                    <p> <?php echo $lang['digital-technology-p']; ?> </p>
+                    <p> <?php echo $lang['digital-tech-p']; ?> </p>
 
                     <a href="#"><i data-feather="arrow-right"></i></a>
 
