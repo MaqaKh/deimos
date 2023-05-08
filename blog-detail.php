@@ -20,11 +20,13 @@ $row = $result->fetch_array(MYSQLI_ASSOC);
 <html lang="zxx" class="theme-light">
 
 <head>
-    <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description"
+          content="Looking for expert Software Solutions? Our consulting company offers top-notch services to streamline your business operations. Contact us today for a consultation!">
+    <title>Revolutionize Your Business with Deimos: Innovative Software Solutions</title>
+    <meta name="google-site-verification" content="07QrfSMNj3OvAW6r36hmKRZQyMIEkl-oS8Xnl4_JmrM"/>
 
-    <!-- All CSS Link -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/animate.min.css">
     <link rel="stylesheet" href="assets/css/meanmenu.css">
@@ -37,9 +39,6 @@ $row = $result->fetch_array(MYSQLI_ASSOC);
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
     <link rel="stylesheet" href="assets/css/dark-color/dark-style.css">
-
-    <title>StartP - IT Startup & Digital Services HTML Template</title>
-
     <link rel="icon" type="image/png" href="images/flat-icon.png">
 </head>
 
@@ -74,9 +73,7 @@ $row = $result->fetch_array(MYSQLI_ASSOC);
     <div class="shape7"><img src="assets/img/shape4.svg" alt="shape"></div>
     <div class="shape8 rotateme"><img src="assets/img/shape2.svg" alt="shape"></div>
 </div>
-<!-- End Page Title -->
 
-<!-- Start Blog Details Area -->
 <div class="blog-details-area ptb-80">
     <div class="container">
         <div class="row">
@@ -84,7 +81,8 @@ $row = $result->fetch_array(MYSQLI_ASSOC);
                 <div class="blog-details-desc">
 
                     <div class="article-content">
-
+                        <h1> <?php echo $row['title'];?></h1>
+                        <br>
                         <?php echo $row['text'];?>
 
                     </div>
