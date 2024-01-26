@@ -19,6 +19,20 @@ $rows = $conn->query("SELECT * FROM blog ORDER BY ID LIMIT 3");
           content="Looking for expert Software Solutions? Our consulting company offers top-notch services to streamline your business operations. Contact us today for a consultation!">
     <title>Revolutionize Your Business with Deimos: Innovative Software Solutions</title>
     <meta name="google-site-verification" content="07QrfSMNj3OvAW6r36hmKRZQyMIEkl-oS8Xnl4_JmrM"/>
+    <meta content="Deimos, deimos, consulting, software, web, software services, website, website design, web development,
+application, application development, information technology" name="keywords">
+
+    <meta content="/images/website-og.png" property="og:image">
+    <meta content="2500" property="og:image:width">
+    <meta content="2305" property="og:image:height">
+    <meta content="http://www.deimos.az" property="og:url">
+    <meta content="DEIMOS" property="og:site_name">
+    <meta content="website" property="og:type">
+    <meta content="summary_large_image" name="twitter:card">
+    <meta content="Deimos" name="twitter:title">
+    <meta content="Looking for expert Software Solutions? Our consulting company offers top-notch services to streamline your business operations. Contact us today for a consultation!"
+          name="twitter:description">
+    <meta content="/assets/images/web/website-og.png" name="twitter:image">
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/animate.min.css">
@@ -63,20 +77,6 @@ $rows = $conn->query("SELECT * FROM blog ORDER BY ID LIMIT 3");
 
 <div class="agency-portfolio-home-slides owl-carousel owl-theme">
 
-<!--    <div class="agency-portfolio-main-banner portfolio-banner-bg2">-->
-<!--        <div class="d-table">-->
-<!--            <div class="d-table-cell">-->
-<!--                <div class="container">-->
-<!--                    <div class="portfolio-banner-content">-->
-<!--                        <span class="sub-title">We are Digital</span>-->
-<!--                        <h1>Marketing Agency</h1>-->
-<!--                        <p>We are focused on delivering Software Solutions</p>-->
-<!--                        <a href="contact.php" class="btn btn-secondary">Get Started</a>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </div>-->
 
     <div class="agency-portfolio-main-banner portfolio-banner-bg1">
         <div class="d-table">
